@@ -29,16 +29,33 @@
 
 ## 🔧 Installation guide
 
-1. **Install dependencies**:
+1. **Clone the repository**:
+
+2. **Set up a virtual environment** (optional but recommended):
+   ```bash
+   # on macos
+   brew install uv
+   # on Ubuntu
+   sudo apt-get install uv
+   # on Arch Linux
+   sudo pacman -S uv
+
+   uv sync
+   ```
+
+3. **Install dependencies**:
    ```bash
    pip install -r requirements.txt
    ```
 
-2. **Set environment variables in shell config**:
+4. **Set environment variables in shell config**:
    ```bash
    export MISTRAL_API_KEY="your_mistral_api_key_here"
    ```
 
-## 🎯 Operation guide
-
+   ## 🎯 Operation guide
+1. **Run the application**:
+   ```bash
+   ./run.sh
+   ```
 #TODO
