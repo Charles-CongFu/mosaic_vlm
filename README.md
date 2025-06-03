@@ -31,7 +31,7 @@
 
 1. **Clone the repository**:
 
-2. **Set up a virtual environment** (optional but recommended):
+2. **Set up a virtual environment**:
    ```bash
    # on macos
    brew install uv
@@ -45,7 +45,7 @@
 
 3. **Install dependencies**:
    ```bash
-   pip install -r requirements.txt
+   uv pip install -r requirements.txt
    ```
 
 4. **Set environment variables in shell config**:
