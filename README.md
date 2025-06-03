@@ -1,10 +1,8 @@
-# 语音转录 + AI 助手
+# Part 1: LLM and VLM integration with Whisper transcription
 
-这是一个整合了语音转录和AI分析的应用程序，支持实时录音、Whisper语音转录和Mistral AI模型分析。
+## 🏗️  Codebase structure
 
-## 🏗️ 项目结构
-
-```
+```shell
 .
 ├── main.py
 ├── src/
