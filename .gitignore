@@ -13,6 +13,7 @@ wheels/
 # ./src/mistral_ai/
 llm_script.txt
 vlm_script.txt
+vlm_script.json
 # ./src/transcribe/
 transcription.txt
 

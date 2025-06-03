@@ -1,3 +1,6 @@
 openai-whisper
 pyaudio
 mistralai
+pygame
+langdetect
+gtts

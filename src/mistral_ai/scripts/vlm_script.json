@@ -1,37 +1,32 @@
 [
   {
-    "description": "A grocery store shelf with various spice jars and price tags.",
+    "description": "A supermarket shelf with various spice containers.",
     "observation": {
       "objects": [
         {
-          "name": "spice jar",
+          "name": "Tomaten Gewürzsalz",
           "label": "Tomaten Gewürzsalz",
-          "price": "1.99",
-          "weight": "70g"
+          "price": "1.99"
         },
         {
-          "name": "spice jar",
+          "name": "Thymian gerebelt",
           "label": "Thymian gerebelt",
-          "price": "1.99",
-          "weight": "15g"
+          "price": "1.99"
         },
         {
-          "name": "spice jar",
-          "label": "Wacholderbeeren",
-          "price": "2.49",
-          "weight": "26g"
+          "name": "Wacholderbeeren",
+          "label": "Wacholderbeeren ganz",
+          "price": "2.49"
         },
         {
-          "name": "spice jar",
-          "label": "Grobes Meersalz",
-          "price": "3.29",
-          "weight": "110g"
+          "name": "Grobes Meersalz",
+          "label": "Grobes Meersalz nachfüllbar",
+          "price": "3.29"
         },
         {
-          "name": "spice jar",
-          "label": "Schwarzer Pfeffer",
-          "price": "2.49",
-          "weight": "45g"
+          "name": "Schwarzer Pfeffer",
+          "label": "Schwarzer Pfeffer ganz",
+          "price": "2.49"
         }
       ]
     }
